@@ -1,0 +1,11 @@
+/home/hides/Documents/projects/csharp/p014/bin/Debug/netcoreapp2.1/p014.deps.json
+/home/hides/Documents/projects/csharp/p014/bin/Debug/netcoreapp2.1/p014.runtimeconfig.json
+/home/hides/Documents/projects/csharp/p014/bin/Debug/netcoreapp2.1/p014.runtimeconfig.dev.json
+/home/hides/Documents/projects/csharp/p014/bin/Debug/netcoreapp2.1/p014.dll
+/home/hides/Documents/projects/csharp/p014/bin/Debug/netcoreapp2.1/p014.pdb
+/home/hides/Documents/projects/csharp/p014/obj/Debug/netcoreapp2.1/p014.csprojAssemblyReference.cache
+/home/hides/Documents/projects/csharp/p014/obj/Debug/netcoreapp2.1/p014.csproj.CoreCompileInputs.cache
+/home/hides/Documents/projects/csharp/p014/obj/Debug/netcoreapp2.1/p014.AssemblyInfoInputs.cache
+/home/hides/Documents/projects/csharp/p014/obj/Debug/netcoreapp2.1/p014.AssemblyInfo.cs
+/home/hides/Documents/projects/csharp/p014/obj/Debug/netcoreapp2.1/p014.dll
+/home/hides/Documents/projects/csharp/p014/obj/Debug/netcoreapp2.1/p014.pdb

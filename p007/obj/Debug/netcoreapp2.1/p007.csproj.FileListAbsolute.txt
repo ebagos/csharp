@@ -1,0 +1,11 @@
+/home/hides/Documents/projects/csharp/p007/obj/Debug/netcoreapp2.1/p007.csprojAssemblyReference.cache
+/home/hides/Documents/projects/csharp/p007/obj/Debug/netcoreapp2.1/p007.csproj.CoreCompileInputs.cache
+/home/hides/Documents/projects/csharp/p007/obj/Debug/netcoreapp2.1/p007.AssemblyInfoInputs.cache
+/home/hides/Documents/projects/csharp/p007/obj/Debug/netcoreapp2.1/p007.AssemblyInfo.cs
+/home/hides/Documents/projects/csharp/p007/bin/Debug/netcoreapp2.1/p007.deps.json
+/home/hides/Documents/projects/csharp/p007/bin/Debug/netcoreapp2.1/p007.runtimeconfig.json
+/home/hides/Documents/projects/csharp/p007/bin/Debug/netcoreapp2.1/p007.runtimeconfig.dev.json
+/home/hides/Documents/projects/csharp/p007/bin/Debug/netcoreapp2.1/p007.dll
+/home/hides/Documents/projects/csharp/p007/bin/Debug/netcoreapp2.1/p007.pdb
+/home/hides/Documents/projects/csharp/p007/obj/Debug/netcoreapp2.1/p007.dll
+/home/hides/Documents/projects/csharp/p007/obj/Debug/netcoreapp2.1/p007.pdb

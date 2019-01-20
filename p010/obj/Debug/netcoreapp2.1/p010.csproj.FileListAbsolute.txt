@@ -1,0 +1,11 @@
+/home/hides/Documents/projects/csharp/p010/obj/Debug/netcoreapp2.1/p010.csprojAssemblyReference.cache
+/home/hides/Documents/projects/csharp/p010/obj/Debug/netcoreapp2.1/p010.csproj.CoreCompileInputs.cache
+/home/hides/Documents/projects/csharp/p010/obj/Debug/netcoreapp2.1/p010.AssemblyInfoInputs.cache
+/home/hides/Documents/projects/csharp/p010/obj/Debug/netcoreapp2.1/p010.AssemblyInfo.cs
+/home/hides/Documents/projects/csharp/p010/bin/Debug/netcoreapp2.1/p010.deps.json
+/home/hides/Documents/projects/csharp/p010/bin/Debug/netcoreapp2.1/p010.runtimeconfig.json
+/home/hides/Documents/projects/csharp/p010/bin/Debug/netcoreapp2.1/p010.runtimeconfig.dev.json
+/home/hides/Documents/projects/csharp/p010/bin/Debug/netcoreapp2.1/p010.dll
+/home/hides/Documents/projects/csharp/p010/bin/Debug/netcoreapp2.1/p010.pdb
+/home/hides/Documents/projects/csharp/p010/obj/Debug/netcoreapp2.1/p010.dll
+/home/hides/Documents/projects/csharp/p010/obj/Debug/netcoreapp2.1/p010.pdb
